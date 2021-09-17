@@ -1,0 +1,82 @@
+<svg id="_-_" data-name="-&gt;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-7 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #333;
+      }
+
+      .cls-2, .cls-4, .cls-7 {
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4, .cls-6, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-5 {
+        stroke: #000;
+        stroke-width: 1px;
+      }
+
+      .cls-7 {
+        stroke: #999;
+      }
+
+      .cls-8 {
+        font-size: 24px;
+        fill: #999;
+        font-family: Verdana;
+        font-weight: 700;
+      }
+
+      .cls-9 {
+        fill: #0e5ba9;
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#333"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="SHC" class="cls-1">
+    <circle class="cls-2" cx="-130" cy="5" r="16"/>
+    <path class="cls-3" d="M-120.707,16.7l1.414-1.413,10,10-1.414,1.415Z"/>
+  </g>
+  <g id="SHOP" class="cls-1">
+    <g id="icon">
+      <path id="Rounded_Rectangle_13" data-name="Rounded Rectangle 13" class="cls-4" d="M-30.605.56V16.033a10.029,10.029,0,0,1-10.03,10.029h-16.44A10.029,10.029,0,0,1-67.1,16.033V0.56h36.5Z"/>
+      <path id="Rounded_Rectangle_14" data-name="Rounded Rectangle 14" class="cls-4" d="M-58.9,8.121V-1.155A10.028,10.028,0,0,1-48.866-11.183h0.5A10.028,10.028,0,0,1-38.335-1.155V8.121"/>
+    </g>
+  </g>
+  <image id="ikea_logo" x="-148" y="83" width="59" height="49" xlink:href="data:img/png;base64,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"/>
+  <circle id="타원_550_복사" data-name="타원 550 복사" cx="14" cy="14" r="13"/>
+  <path id="모양_712_복사" data-name="모양 712 복사" class="cls-3" d="M7.006,14V13.2H18.56L13.761,9h2.513L21.992,14,16.273,18.99H13.762l4.805-4.2-11.561,0V14Z"/>
+  <path id="모양_712_복사_2" data-name="모양 712 복사 2" class="cls-3" d="M7.006,14V13.2H18.56L13.761,9h2.513L21.992,14,16.273,18.99H13.762l4.805-4.2-11.561,0V14Z"/>
+  <circle id="타원_550_복사-2" data-name="타원 550 복사" class="cls-5" cx="64" cy="14" r="13"/>
+  <path id="모양_712_복사-2" data-name="모양 712 복사" class="cls-6" d="M57.006,14V13.2H68.56L63.761,9h2.513L71.992,14,66.273,18.99H63.762l4.806-4.2-11.561,0V14Z"/>
+  <path id="모양_712_복사_2-2" data-name="모양 712 복사 2" class="cls-6" d="M57.006,14V13.2H68.56L63.761,9h2.513L71.992,14,66.273,18.99H63.762l4.806-4.2-11.561,0V14Z"/>
+  <ellipse class="cls-7" cx="146.703" cy="12.266" rx="13.578" ry="13.578"/>
+  <text id="N" class="cls-8" transform="translate(139.482 18.923) scale(0.715)">N</text>
+  <path id="Rectangle_564_copy" data-name="Rectangle 564 copy" class="cls-9" d="M329.007,1.99L334,8.419h-9.978Zm0,2.572L334,10.99h-9.978ZM328,5h2V22h-2V5Zm13.008,17.008-5-6.429h10.009Zm0-2.571-5-6.429h10.009ZM340,2h2.031V19H340V2Z"/>
+  <rect class="cls-7" x="260.844" y="1.281" width="9.937" height="9.656"/>
+  <rect id="Rectangle_14_copy" data-name="Rectangle 14 copy" class="cls-7" x="273" y="1.281" width="9.938" height="9.656"/>
+  <rect id="Rectangle_14_copy_2" data-name="Rectangle 14 copy 2" class="cls-7" x="260.844" y="13.219" width="9.937" height="9.656"/>
+  <rect id="Rectangle_14_copy_2-2" data-name="Rectangle 14 copy 2" class="cls-7" x="273" y="13.219" width="9.938" height="9.656"/>
+</svg>
