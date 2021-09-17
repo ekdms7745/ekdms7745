@@ -1,0 +1,248 @@
+@charset "utf-8";
+html{
+  scroll-behavior: smooth;
+}
+#wrap{
+  width :100%;
+  min-width:1280px;
+  color:#333;
+  overflow: hidden;
+}
+header .logo img{
+  width: 10%;
+  float: left;
+  padding-bottom: 15px;
+  transform: translate(578px, 15px);
+}
+.inner{
+  width: 1240px;
+  margin:0 auto;
+}
+/* lang */
+.inner .lang{
+  float: left;
+  width: 100%;
+  cursor: pointer;
+}
+.inner .lang ul li{
+  float: left;
+  font-size: 24px;
+}
+.inner .lang .en{
+  color: #bbb7b7;
+  padding-right: 5px;
+}
+/* icon */
+.inner .lang .icon ul{
+  float: right;
+  margin-right:-70px;
+  height: 65px;
+}
+.inner .lang .icon img{
+  display:block;
+  width: 80%;
+  margin-left:-75px;
+}
+/* w */
+div .w{
+  float: left;
+  font-size: 23px;
+  background-color: #ebebeb;
+  padding:5px 20px;
+  cursor:pointer;
+}
+/* nav */
+header nav{
+  float:right;
+  text-align: left;
+  cursor: pointer;
+  list-style-type: none;
+}
+header nav .menu>li {
+  float: left;
+  line-height: 30px;
+  text-align: center;
+  width: 90px;
+  border-bottom: 5px solid #e1e1e1;
+}
+
+nav .menu .logo_1 .sub_menu {
+  font-size: 1px;
+}
+
+nav .menu .logo_1 img {
+  width: 30%;
+  margin-top: -11px;
+}
+
+header nav ul li .sub_menu {
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+header div nav ul.menu>li:hover .sub_menu {
+  display: block;
+  padding-top: 5px;
+}
+header nav ul li .sub_menu li a {
+  background-color: #ebebeb;
+  display: block;
+  width: 91px;
+  line-height: 40px;
+  text-align: center;
+}
+
+header nav .menu li:hover .sub_menu {
+  display: block;
+}
+
+header nav .menu li:hover .sub_menu .about {
+  font-size: 12px;
+}
+
+header nav ul li .sub_menu li a:hover {
+  background-color: #ecebea;
+  color: #c7b299;
+}
+/* sell */
+div .sell{
+  float: right;
+  padding:23px 0 0 850px;
+  cursor:pointer;
+}
+/* section */
+section{float: left;
+  width: 100%;
+  font-size: 24px;
+  padding:2% 9%;
+}
+section img{
+  float: left;
+  width: 26.7%;
+  padding: 1% 1% 1% 0;
+}
+/* pd_1 */
+div .pd_1 .pd img{
+  margin-top:-20px;
+}
+div .pd_1 .name li{
+  float: left;
+  font-size: 20px;
+  padding:0 6% 0 4.5%;
+  color:#828485
+}
+div .pd_1 .price li{
+  float: left;
+  font-size: 20px;
+  padding:0.5% 11.5% 0 11.2%;
+  color:#828485
+}
+/* pd_2 */
+div .pd_2 .name{
+  float: left;
+}
+div .pd_2 .name li{
+  float: left;
+  font-size: 20px;
+  padding:0 110px 0 91px;
+  color:#828485
+}
+div .pd_2 .price{
+  float: left;
+}
+div .pd_2 .price li{
+  float: left;
+  font-size: 20px;
+  padding:7px 203px 0 169px;
+  color:#828485
+}
+/* banner */
+.banner{
+  float: left;
+  width: 307%;
+  margin:-0.5% 0 -1.5% 0;
+}
+/* pd_3 */
+div .pd_3 .name li{
+  float: left;
+  font-size: 20px;
+  padding:5px 60px 2px 135px;
+  color:#828485
+}
+div .pd_3 .price li{
+  float: left;
+  font-size: 20px;
+  padding:7px 203px 0 169px;
+  color:#828485
+}
+/* pd_4 */
+div .pd_4 .name{
+  float: left;
+}
+div .pd_4 .name li{
+  float: left;
+  font-size: 20px;
+  padding:0 180px 0 172px;
+  color:#828485
+}
+div .pd_4 .price li{
+  float: left;
+  font-size: 20px;
+  padding:5px 190px 0 171px;
+  color:#828485
+}
+div .page{
+  float: left;
+  padding:0 0 5% 43%;
+  margin-right: 50%;
+  cursor:pointer;
+}
+/* aside */
+aside .top a{
+  position:fixed;
+  top:48.5%;
+  right:20px;
+  transform: translate(0 , -50%);
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  line-height: 60px;
+  text-align: center;
+  transition: 0.3s;
+  background-color:#c69c6d;
+  color: #3d4144;
+  z-index: 100;
+  cursor:pointer;
+}
+
+/* footer */
+footer {
+  width: 100%;
+  float: left;
+  position: relative;
+}
+
+footer div.f{
+  height: 120px;
+  background-color: #c7b299;
+  color: #3d4144;
+  padding: 2%;
+  font-size: 14.18px;
+  line-height: 180%;
+}
+
+footer .company {
+  float: left;
+  
+}
+
+footer .cs {
+  float: left;
+  padding: 0 100px;
+}
+
+footer .c {
+  float: left;
+ 
+}
